@@ -10,7 +10,7 @@
      end
    end
    true
-   e
+ end 
 
 
  def prime?(value)
