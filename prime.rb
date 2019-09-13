@@ -1,11 +1,6 @@
   #Add  code here
  def prime?(integer)
-   if value <= 1
-     return false
-   elsif
-     (2..(integer - 1)).each do |n|
-       if integer % n == 0
-         return f
+   if valu
  # def prime?(value)
  #  if value <= 1
  #    return false
