@@ -4,8 +4,8 @@
      return false
    elsif
      (2..value - 1).each do |i|
- #      if value % i == 0
- #        return false
+       if value % i == 0
+         return false
  #      end
  #    end
  #  end
