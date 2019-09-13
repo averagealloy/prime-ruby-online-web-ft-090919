@@ -1,5 +1,5 @@
 # Add  code here
 def prime?(integer)
 prime_num = (0..top).to_a
-primenumbers[0,1]
+primenumbers[0,1] = nil 
 end
