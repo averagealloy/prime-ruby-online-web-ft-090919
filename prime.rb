@@ -2,5 +2,6 @@
 def prime?(integer)
 prime_num = (0..top).to_a
 primenumbers[0,1] = nil
-counter = 
+counter = 0
+
 end
