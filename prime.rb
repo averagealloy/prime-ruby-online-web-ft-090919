@@ -7,7 +7,7 @@
        if integer % n == 0
          return false
    end
-  true
+  
  end
 
 
