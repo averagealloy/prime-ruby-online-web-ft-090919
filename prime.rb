@@ -5,7 +5,7 @@
    elsif
      (2..(integer - 1)).each do |n|
        if integer % n == 0
-         
+         return 
    end
   true
  end
