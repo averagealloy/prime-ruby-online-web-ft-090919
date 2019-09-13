@@ -5,14 +5,7 @@
    elsif
      (2..(integer - 1)).each do |n|
        if integer % n == 0
-         return false
-       end
-     end
-   end
-   true
- end
-
- #
+         return f
  # def prime?(value)
  #  if value <= 1
  #    return false
