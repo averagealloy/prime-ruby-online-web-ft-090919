@@ -1,5 +1,5 @@
   #Add  code here
- # def prime?(value)
+ 0# def prime?(value)
  #  if value <= 1
  #    return false
  #  elsif
