@@ -1,5 +1,4 @@
   #Add  code here
- def p
  # def prime?(value)
  #  if value <= 1
  #    return false
