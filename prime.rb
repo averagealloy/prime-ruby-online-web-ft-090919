@@ -7,7 +7,7 @@
        if value % i == 0
          return false
        end
- #    end
- #  end
- #  true
- # end
+     end
+   end
+   true
+  end
