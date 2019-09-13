@@ -1,4 +1,4 @@
 # Add  code here
 def prime?(integer)
-(2..(v))
+(2..(i))
 end
