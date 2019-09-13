@@ -1,4 +1,4 @@
 # Add  code here
 def prime?(integer)
-prime_num = (0 )
+prime_num = (0..top)
 end
