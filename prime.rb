@@ -1,7 +1,7 @@
 # Add  code here
 def prime?(integer)
 integer.inclue? do |check|
-  integer % 
+  integer % check  
 
 end
 end
